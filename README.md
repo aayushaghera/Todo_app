@@ -57,8 +57,3 @@ To run this project on your local machine, follow these steps:
 4. **🌐 Open your browser and navigate to:**
    ```bash
    http://localhost:3000
-
-
-
-
-
