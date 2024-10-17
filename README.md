@@ -1,69 +1,56 @@
-## Todo App
+# Todo App
 
-This project contains a simple todo application with the following features:
+This is a simple todo application that allows users to manage their tasks efficiently. Users can sign up, create todos, view their list of tasks, and mark them as completed.
 
-- [ ] A user can sign up
-- [ ] A user can sign in
-- [ ] A user can create a todo
-- [ ] A user can see all their created todos
-- [ ] A user can mark a todo as completed
+## Features
 
-### Instructions
+- **User Registration (Sign Up):** Users can create an account to start using the app.
+- **User Login (Sign In):** Users can log into their account to access their todos.
+- **Todo Creation:** Users can add new tasks to their todo list.
+- **View Todos:** Users can view a list of all the tasks they have created.
+- **Task Completion:** Users can mark tasks as completed, moving them to a completed section.
 
-1. **Sign Up**: Create an account to start using the Todo App.
-2. **Sign In**: Access your account by signing in.
-3. **Create a Todo**: Add new tasks to your list.
-4. **View Todos**: See all the tasks you have created.
-5. **Mark as Completed**: Mark tasks as completed once they are done.
+## User Workflow
 
-### Example Workflow
+1. **Sign Up:**
+   - Fill out your details to create an account.
+   - After successful registration, you will receive a confirmation message.
 
-1. **Sign Up**:
+2. **Sign In:**
+   - Enter your login credentials to access your dashboard.
 
-   - Fill in your details and register.
-   - Receive a confirmation message.
+3. **Create a Todo:**
+   - Click on the "Add Todo" button.
+   - Fill in the task details and save it to your list.
 
-2. **Sign In**:
+4. **View Todos:**
+   - Navigate to the "My Todos" section to see all your tasks.
 
-   - Enter your credentials to log in.
-   - Access your dashboard.
+5. **Mark as Completed:**
+   - Check off tasks to mark them as completed. They will be moved to a separate section for completed tasks.
 
-3. **Create a Todo**:
+## Planned Enhancements
 
-   - Click on "Add Todo".
-   - Enter the task details and save.
+- **OAuth Authentication:** Implement OAuth for more secure sign-ins.
+- **Edit Functionality:** Allow users to edit their existing todos.
+- **Filter by Date or Priority:** Add the ability to filter tasks by date or priority.
+- **Notifications:** Enable notifications to remind users of upcoming tasks.
 
-4. **View Todos**:
+## Running the Project Locally
 
-   - Navigate to the "My Todos" section.
-   - See a list of all your tasks.
+To run this project on your local machine, follow these steps:
 
-5. **Mark as Completed**:
-   - Check the box next to a task to mark it as completed.
-   - The task moves to the completed section.
+1. **Clone the repository:**
 
-### Future Enhancements
-
-- [ ] Implement authentication using OAuth.
-- [ ] Add functionality to edit todos.
-- [ ] Enable filtering todos by date or priority.
-- [ ] Add notifications for upcoming tasks.
-
-### Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
    ```bash
-   https://github.com/aayushaghera/Todo_app.git
-   ```
+   git clone https://github.com/aayushaghera/Todo_app.git
 2. Install dependencies:
-   ```bash
+   bash
    cd todo-app
    npm install
-   ```
+   
 3. Start the development server:
-   ```bash
+   bash
    npm start
-   ```
-4. Open your browser and navigate to `http://localhost:3000`.
+   
+4. Open your browser and navigate to http://localhost:3000.
