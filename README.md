@@ -29,12 +29,12 @@ This is a simple and efficient todo application that allows users to manage thei
 5. **✅ Mark as Completed:**
    - Check off tasks to mark them as completed. They will be moved to a separate section for completed tasks.
 
-## 🚀 Planned Enhancements
+## 🚀 Planned Improvements
 
-- **🔐 OAuth Authentication:** Implement OAuth for more secure sign-ins.
-- **✏️ Edit Functionality:** Allow users to edit their existing todos.
-- **📅 Filter by Date or Priority:** Add the ability to filter tasks by date or priority.
-- **🔔 Notifications:** Enable notifications to remind users of upcoming tasks.
+- **🔐 Secure Sign-ins with OAuth:** Make sign-ins safer by using OAuth.
+- **✏️ Edit Tasks:** Let users change their existing tasks.
+- **📅 Filter Tasks:** Add options to sort tasks by date or priority.
+- **🔔 Task Reminders:** Set up notifications to remind users about upcoming tasks.
 
 ---
 
