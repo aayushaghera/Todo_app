@@ -36,18 +36,23 @@ This is a simple todo application that allows users to manage their tasks effici
 - **Filter by Date or Priority:** Add the ability to filter tasks by date or priority.
 - **Notifications:** Enable notifications to remind users of upcoming tasks.
 
-## Running the Project Locally
+To run this project locally:
 
-To run this project on your local machine, follow these steps:
-
-1. **Clone the repository:**
-
+1. Clone the repository:
    ```bash
-   git clone https://github.com/aayushaghera/Todo_app.git
+   
+   ```
 2. Install dependencies:
-   bash
+   ```bash
    cd todo-app
    npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open your browser and navigate to `http://localhost:3000`.
+
    
 3. Start the development server:
    bash
