@@ -44,24 +44,21 @@ To run this project on your local machine, follow these steps:
 
 1. **📥 Clone the repository:**
    ```bash
-   git clone https://github.com/aayushaghera/Todo_app.git
-
-   
+   git clone https://github.com/aayushaghera/Todo_app.git   
    ```
-2. Install dependencies:
+2. **⚙️ Install dependencies:**
    ```bash
    cd todo-app
    npm install
-   ```
-3. Start the development server:
+3. **🚀 Start the development server:**
    ```bash
    npm start
-   ```
-4. Open your browser and navigate to `http://localhost:3000`.
 
-   
-3. Start the development server:
-   bash
-   npm start
-   
-4. Open your browser and navigate to http://localhost:3000.
+4. **🌐 Open your browser and navigate to:**
+   ```bash
+   http://localhost:3000
+
+
+
+
+
