@@ -55,7 +55,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NehaKanabar/Todo_App.git
+   https://github.com/aayushaghera/Todo_app.git
    ```
 2. Install dependencies:
    ```bash
